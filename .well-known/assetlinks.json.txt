@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.quiz_app",
+      "sha256_cert_fingerprints": [
+        " A9:DF:45:97:B2:DA:75:CB:6E:32:61:66:D3:E7:9B:31:71:02:10:E6:D1:BE:96:90:30:DB:4F:82:D0:C9:38:1A"
+      ]
+    }
+  }
+]
